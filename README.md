@@ -21,6 +21,4 @@ The provided code is a Python script that simulates a coffee machine program. It
 
 8. If both resource sufficiency and payment are met, the program proceeds to make the coffee using `coffee_maker.make_coffee(drink)`.
 
-# 📝 Note:
 
-Please note that the menu file used in this code is kept private and is not included in the code posted on GitHub. Users who wish to run this code will need to request access to this file separately.
